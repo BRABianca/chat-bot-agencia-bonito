@@ -1,0 +1,16 @@
+{
+  "name": "chat-bot-agencia-bonito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "robo.js",
+  "scripts": {
+    "start": "node ./src/robo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.16.1",
+    "firebase-admin": "^11.0.1"
+  }
+}
